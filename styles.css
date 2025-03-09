@@ -89,6 +89,7 @@ img{
     animation-duration: 2s;
     position:absolute;
     z-index: -1;
+    margin-left:70px;
     
 }
 @keyframes img {
